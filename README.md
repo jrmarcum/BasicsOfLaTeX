@@ -1,1 +1,1 @@
-# LaTeXByExample
+# Basics of Coding LaTeX
