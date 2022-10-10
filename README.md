@@ -1,1 +1,1 @@
-# Basics of Coding LaTeX
+# Basics of Writing LaTeX
